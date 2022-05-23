@@ -1,0 +1,4 @@
+seconds = 86400
+day = seconds
+week = (7*day)
+print (week)
